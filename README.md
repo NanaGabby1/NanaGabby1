@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https//:linkedin.com/in/abann">
+  <a href="https://www.linkedin.com/in/abann">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  <img src="https://komarev.com/ghpvc/?username=NanaGabby1&style=flat-square&color=green" alt=""width="140"/>
@@ -21,7 +21,7 @@ I love to fix <img src="https://media.giphy.com/media/8Bkr9UJQTuqEnzkOae/giphy.g
 
 - :telescope: I’m currently learning the tools and applications in cloud and devops environmnents.
 - :palms_up_together: I'm alooking for collaboration and help with advanced devops and solution architecture projects
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nana-blue?style=flat&logo=Linkedin&logoColor=white)](https//:linkedin.com/in/abann)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nana-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abann)
 
 ---
 
