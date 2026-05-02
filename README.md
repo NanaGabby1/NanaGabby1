@@ -17,10 +17,10 @@
 ---
 
 ### :man_technologist: About Me :
-I love to fix <img src="https://media.giphy.com/media/8Bkr9UJQTuqEnzkOae/giphy.gif" width="30"> stuff and make them better. That pushes me to continously learn tech, the cloud, devops <img src="https://media.giphy.com/media/GQty4dYXeVkOeMzqVx/giphy.gif" width="30"> and all the cool stuff.
+I love to fix <img src="https://media.giphy.com/media/8Bkr9UJQTuqEnzkOae/giphy.gif" width="30"> stuff and make them better. <img src="https://media.giphy.com/media/GQty4dYXeVkOeMzqVx/giphy.gif" width="30"> 
 
-- :telescope: I’m currently learning the tools and applications in cloud and devops environmnents.
-- :palms_up_together: I'm alooking for collaboration and help with advanced devops and solution architecture projects
+- :telescope:
+- :palms_up_together:
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nana-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abann)
 
 ---
